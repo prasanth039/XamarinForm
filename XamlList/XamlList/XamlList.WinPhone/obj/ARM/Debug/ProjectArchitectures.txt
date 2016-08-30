@@ -1,0 +1,2 @@
+D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.WinPhone\XamlList.WinPhone.csproj;arm
+D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList\XamlList.csproj;neutral

@@ -10,19 +10,19 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>f736c883-f105-4d30-a719-4bf328872f5e</PackageIdentityName>
     <PackageIdentityPublisher>CN=joaqu</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\XamlList.UWP.exe">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\XamlList.UWP.exe">
       <PackagePath>entrypoint\XamlList.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prasanth.prabhakaran\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -346,43 +346,43 @@
     <AppxPackagedFile Include="C:\Users\prasanth.prabhakaran\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList\bin\Debug\XamlList.dll">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList\bin\Debug\XamlList.dll">
       <PackagePath>XamlList.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\XamlList.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\XamlList.UWP.xr.xml">
       <PackagePath>XamlList.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -394,10 +394,10 @@
     <AppxPackagedFile Include="C:\Users\prasanth.prabhakaran\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\Core\XamlList.UWP.exe">
+    <AppxPackagedFile Include="D:\Apps\Xamarin\Forms-Repo\XamlList\XamlList\XamlList.UWP\bin\ARM\Debug\Core\XamlList.UWP.exe">
       <PackagePath>XamlList.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
