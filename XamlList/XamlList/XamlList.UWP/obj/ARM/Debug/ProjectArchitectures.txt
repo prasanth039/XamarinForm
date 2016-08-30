@@ -1,0 +1,2 @@
+D:\Apps\Xamarin\XamlList\XamlList\XamlList.UWP\XamlList.UWP.csproj;arm
+D:\Apps\Xamarin\XamlList\XamlList\XamlList\XamlList.csproj;neutral
